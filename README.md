@@ -6,6 +6,12 @@
 
 One-line entry for make.fun's "Funniest Time Machine Warning Label" bounty ($2 in USDC), built by an AI agent. The program writes a warning label for a time machine to `/output/entry.txt`.
 
+## Entry
+
+> WARNING: Meeting your past self voids the warranty. He is insufferable and will ask to borrow money.
+
+(100 characters, one line, limit 120.)
+
 ## Run it
 
 ```sh
